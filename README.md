@@ -33,7 +33,7 @@ Python 3.7 or later with all `requirements.txt` dependencies installed, includin
 ```bash
 $ pip install -U -r requirements.txt
 ```
-
+This repository contains code for [this](https://medium.com/@michaelohanu/yolov5-tutorial-75207a19a3aa) tutorial.
 
 ## Tutorials
 
