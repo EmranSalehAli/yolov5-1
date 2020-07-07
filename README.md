@@ -52,12 +52,6 @@ $ python3 detect.py --source ./inference/images/test1.jpg  --weights weights/las
   <img width="700" height="500" src="https://github.com/sleekmike/yolov5/blob/master/inference/output/test1.jpg">
 </p>
 
-
-image 1/2 inference/images/bus.jpg: 640x512 3 persons, 1 buss, Done. (0.009s)
-image 2/2 inference/images/zidane.jpg: 384x640 2 persons, 2 ties, Done. (0.009s)
-Results saved to /content/yolov5/inference/output
-```
-
 <img src="https://user-images.githubusercontent.com/26833433/83082816-59e54880-a039-11ea-8abe-ab90cc1ec4b0.jpeg" width="500">  
 
 ## Reproduce my Environment
