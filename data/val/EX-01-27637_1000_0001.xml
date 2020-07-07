@@ -1,0 +1,26 @@
+<annotation>
+	<folder>antenna_pics</folder>
+	<filename>EX-01-27637_1000_0001.jpg</filename>
+	<path>/Users/macbook/Desktop/antenna/antenna_pics/EX-01-27637_1000_0001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7152</width>
+		<height>5368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>antenna</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2621</xmin>
+			<ymin>1033</ymin>
+			<xmax>4397</xmax>
+			<ymax>5368</ymax>
+		</bndbox>
+	</object>
+</annotation>

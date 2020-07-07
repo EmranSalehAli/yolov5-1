@@ -1,0 +1,11 @@
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0009.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0002.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0001.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0015.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0014.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0010.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0011.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0013.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0007.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0006.jpg
+/Users/macbook/Desktop/antenna/yolov5/data/val/EX-01-27637_1000_0012.jpg
