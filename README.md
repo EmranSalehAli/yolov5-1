@@ -47,6 +47,10 @@ To run inference on examples in the `./inference/images` folder:
 ```bash
 $ python3 detect.py --source ./inference/images/test1.jpg  --weights weights/last.pt --conf 0.5
 ```
+## Output
+<p align="center">
+  <img width="700" height="500" src="https://github.com/sleekmike/yolov5/blob/master/inference/output/test1.jpg">
+</p>
 
 
 image 1/2 inference/images/bus.jpg: 640x512 3 persons, 1 buss, Done. (0.009s)
